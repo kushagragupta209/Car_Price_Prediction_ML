@@ -8,7 +8,7 @@ Regressions used:
 
 The training data is divided into TRAINING and TESTING data and then regression for the predictions.
 
-error value in linear regression = 0.8799451660493711
+error value in linear regression = 0.8799451660493711 and
 error vale un Lasso regression = 0.8427856123435794
 
 Lasso regression gives less error comparing with linear regression.
